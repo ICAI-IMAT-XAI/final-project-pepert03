@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+joblib
+shap
+lime
+git+https://github.com/MaximeJumelle/ALEPython.git@dev#egg=alepython
